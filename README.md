@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anamitra
-- 🌱 I’m currently learning C-Programmiung
+- 🌱 I’m currently learning C-Programming
 
 
 <!---
