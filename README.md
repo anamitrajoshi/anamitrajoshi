@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anamitra
-- 🌱 I’m currently learning C-Programming
+- 🌱 I’m a 2nd year student and currently working on my DSA and Full Stack Development Skills!
 
 
 <!---
