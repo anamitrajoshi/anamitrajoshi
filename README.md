@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anamitra
-- 🌱 I’m a 2nd year student and currently working on my DSA and Full Stack Development Skills!
+- 🌱 I’m a 3rd year student and currently working on my DSA and Full Stack Development Skills!
 
 
 <!---
