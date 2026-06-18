@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Anamitra
-- 🌱 I’m a 3rd year student and currently working on my DSA and Full Stack Development Skills!
+- Hi, I’m Anamitra, a AI and Software Engineer
+- I have 9 months of experience in the software industry with internships at Google and Youngsoft India
+- I completed my Bachelors of Technology degree in Information Technology in 2026
+- Super excited to connect!
 
 
 <!---
